@@ -11,5 +11,7 @@ print(Num1 > Num2)
 print(Num1 < Num2)
 #Mayor o igual que
 print(Num1 >= Num2)
-
+#Menor o igual que
+print(Num1 <= Num2)
+#
 
